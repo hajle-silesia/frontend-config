@@ -1,8 +1,8 @@
 replicaCount: 1
 image:
-  repository: ''
+  repository: hajlesilesia/frontend
   pullPolicy: IfNotPresent
-  tag: ''
+  tag: 1.0.7
 imagePullSecrets: []
 nameOverride: ''
 fullnameOverride: ''
